@@ -6,7 +6,7 @@
 - % percent
 - ^ arrow
 - & and
-- \* asterisk
+- * asterisk
 - ( open par
 - ) close par
 # "links"
