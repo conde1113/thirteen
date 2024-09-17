@@ -6,11 +6,11 @@
 - % percent
 - ^ arrow
 - & and
-- * asterisk
+- \* asterisk
 - ( open par
 - ) close par
 # "links"
 * [google](google.com)
 * [mail](gmail.com)
-# Experiments
+# "Experiments"
 😄 🐕 👋 🦴
