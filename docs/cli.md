@@ -1,0 +1,12 @@
+# Basic Terminal Command list
+- pwd	Lists the path to the working directory
+- ls	List directory contents
+- ls -a	List contents including hidden files (Files that begin with a dot)
+- ls -l	List contents with more info including permissions (long listing)
+- ls -r	List contents reverse order
+- cd	Change directory to home
+- cd [dirname]	Change directory to specific directory
+- cd ~	Change to home directory
+- cd ..	Change to parent directory
+- cd -	Change to previous directory (which could be different than the parent of course)
+- find [dirtosearch] -name [filename]	Find location of a program
