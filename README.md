@@ -27,3 +27,6 @@
 - command+a (select all)
 - commant+t (new tab)
 - command+control+f (fullscreen)
+
+### "Week 6 exercise"
+[CLI commands](docs/cli.md)
